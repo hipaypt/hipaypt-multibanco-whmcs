@@ -55,3 +55,4 @@ if (sizeof($data) > 2 && $status != 'Paid') {
 
 ```
 
+and replace [YOUR URL]
